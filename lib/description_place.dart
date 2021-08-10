@@ -53,7 +53,7 @@ class DescriptionPlace extends StatelessWidget{
         estrellas.add(estrellaBorde);
       }
     }
-    final  filastrellas = Row(
+    final  filaestrellas = Row(
       children: estrellas,
     );
    final filatitulo = Row (

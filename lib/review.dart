@@ -15,7 +15,8 @@ class Review extends StatelessWidget {
     //foto
     final foto = Container(
       margin: EdgeInsets.only(
-        right: 10
+        top:10,
+        right: 10,
       ), // EdgeInsets.only
       width: 80,
       height: 80,
